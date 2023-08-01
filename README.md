@@ -3,6 +3,8 @@ The objective of this project is to ensure the secure management, streamlined pr
 
 Built an ETL pipeline using Python in AWS
 
+Dataset - https://www.kaggle.com/datasets/datasnaek/youtube-new?resource=download 
+
 Languages- SQL, Python3
 
 Services- AWS S3, AWS Glue, QuickSight, AWS Lambda, AWS Athena, AWS IAM
